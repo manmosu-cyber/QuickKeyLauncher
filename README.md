@@ -5,5 +5,5 @@ QuickKeyLauncher is a lightweight Windows utility that lets you launch files, fo
 ![Main Screen](https://github.com/manmosu-cyber/QuickKeyLauncher/blob/main/ScreenShot_main.png)
 
 VirusTotal scan result:
-https://www.virustotal.com/gui/file/958a6720f45ef6185a5f40e8f2591fc1d24608c3731c7473df180eb08ee23ff1?nocache=1
-<img width="1333" height="37" alt="image" src="https://github.com/user-attachments/assets/7455d7de-e286-4408-830d-f6547a74b7df" />
+https://www.virustotal.com/gui/file/0a2602b8b978ad580693b090c8933b6230bf84b0c2cd75f493e46653ee1a7418/detection
+<img width="1333" height="37" alt="image" src="https://github.com/user-attachments/assets/1f8f8850-197a-4b73-94e2-a7cb4b45aaac" />
