@@ -1,5 +1,9 @@
 # QuickKeyLauncher
-QuickKeyLauncher is a lightweight Windows utility that lets you launch files, folders, and URLs instantly using customizable hotkeys.  Main features: - Register any file, folder, or URL with a hotkey - Fast and minimal UI - No background processes when idle  Download the installer (QuickKeyLauncher_Setup_V*.*.exe) and run it to install.
+QuickKeyLauncher is a lightweight Windows utility that lets you open files, folders, and URLs instantly using customizable hotkeys. It is designed to streamline daily workflows by assigning frequently used items to numeric keypad keys. The application is fast, minimal, and requires no background processes when idle.
+
+It is especially convenient when pinned to the taskbar or triggered from mouse sub-keys, allowing quick access without needing to remember every hotkey assignment. This makes it ideal for users who prefer simple, direct launching without memorizing multiple key mappings.
+
+QuickKeyLauncher does not collect any user data and is distributed under the MIT License.
 
 ## Screenshot
 ![Main Screen](https://github.com/manmosu-cyber/QuickKeyLauncher/blob/main/ScreenShot_main.png)
